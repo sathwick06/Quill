@@ -123,11 +123,3 @@ TAVILY_API_KEY=your_tavily_api_key   # Optional — only needed for research/hyb
 A quill — the feather-pen of ancient scribes — symbolizes writing and authorship. In this system, each **worker agent is a feather**, and together they form the **Quill** that writes the final piece. One tool. Many parts. One voice.
 
 ---
-
-## 📄 License
-
-MIT License — feel free to use, modify, and build upon Quill.
-
----
-
-*Built with LangGraph & love for automated storytelling.*
